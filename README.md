@@ -11,7 +11,7 @@ This prototype runs in **Unreal Engine 5** and lets you walk around remastered v
 The current Windows installer is available on the GitHub **Releases** page for this repository.
 
 **Download link:**  
-`PASTE_GITHUB_RELEASE_LINK_HERE`
+`https://github.com/jratcliff63367/duatiu-prototype/releases/tag/v0.1`
 
 Please download the installer only from the official GitHub release attached to this repository. That is the version I am personally publishing and supporting.
 
