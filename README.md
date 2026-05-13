@@ -48,7 +48,7 @@ The original Level 1 only had a little over **one thousand triangles** in the en
 
 With excellent use of materials, textures, and lighting, Berkay did a fantastic job bringing these ancient game levels back to life. Obviously, they do not look like modern AAA game titles, but they have a cool retro feel and still feel like a great space to be in. For anyone who played the original game, they trigger a huge amount of nostalgia.
 
-I also contracted a student named **Loup Marquez-Littringer** to set up the most basic game logic so I could present this as an actual prototype with an installer:
+I also contracted a student named **Loup Marquez-Luttringer** to set up the most basic game logic so I could present this as an actual prototype with an installer:
 
 https://www.linkedin.com/in/loupmarquez/
 
